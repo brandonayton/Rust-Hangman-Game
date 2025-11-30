@@ -7,7 +7,7 @@ The game lets players guess programming language names letter by letter. It incl
 
 This project helped me learn Rust's syntax and how it handles data structures and object-oriented programming. Even though Rust is known for being complex, I was able to create a fun, working game that demonstrates the language's capabilities.
 
-[Software Demo Video]()
+[Software Demo Video](https://youtu.be/RgT709X1uXc)
 
 # Development Environment
 
